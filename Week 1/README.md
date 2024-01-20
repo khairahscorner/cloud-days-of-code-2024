@@ -32,4 +32,5 @@
     - Include necessary environment variables for each step
 
 ## Day 7
-- 
+- Started on a take-home challenge I wanted to work on. Explored APIs and did some research to understand the problem and possible solutions.
+- Stumped by some requirements I needed for the API
